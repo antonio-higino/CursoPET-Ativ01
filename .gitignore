@@ -1,0 +1,12 @@
+/Library/
+/Logs/
+/UserSettings/
+
+.vs/
+.vsconfig
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
