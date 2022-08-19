@@ -27,8 +27,8 @@ $ git clone <https://github.com/antonio-higino/CursoPET-Ativ01>
 
 ### Para entrar em contato/Saber mais: 
 
-Contato por email através de: ajywdhgajudgjdgdga@ajdgaj.com.
-Acompanhe o twitter [Placeholder](https://twitter.com) para ficar sabendo das novidades do projeto.
+- Contato por email através de: ajywdhgajudgjdgdga@ajdgaj.com.
+- Acompanhe o twitter [Placeholder](https://twitter.com) para ficar sabendo das novidades do projeto.
 
 ## Estrutura de diretórios (apenas os englobados pelo repositório git)
 
